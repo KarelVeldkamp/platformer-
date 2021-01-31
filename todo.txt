@@ -1,0 +1,19 @@
+## TODO 
+# bugs:
+- player collisions
+- player transparancy
+
+
+# ideas:
+
+
+
+# implement this
+- background scaling y axis
+- vertical boundaries per map
+- make starting menu scalable
+
+
+## DONE:
+- background scaling (x asis)
+- fixed transparency background
